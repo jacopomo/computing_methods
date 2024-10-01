@@ -8,3 +8,5 @@ cd [repository name] #Goes "into" the repository folder on my computer
 git branch [branch name] #Add a branch
 git checkout [branch name] #Now I work on this branch
 git add [file name] #It will add it onto the branch that I'm in
+git commit -m "message" #commit with the message
+git push
