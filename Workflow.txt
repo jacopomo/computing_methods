@@ -1,0 +1,10 @@
+Basic github workflow notes:
+
+git clone [HTTPS link from github]
+git pull #see any new changes
+cd [repository name] #Goes "into" the repository folder on my computer
+
+
+git branch [branch name] #Add a branch
+git checkout [branch name] #Now I work on this branch
+git add [file name] #It will add it onto the branch that I'm in
